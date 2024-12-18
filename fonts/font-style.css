@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'exo2-m';
+    src: url('Exo2-Medium.woff2') format('woff2'),
+        url('Exo2-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'exo2-b';
+    src: url('Exo2-Bold.woff2') format('woff2'),
+        url('Exo2-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'exo2-l';
+    src: url('Exo2-Light.woff2') format('woff2'),
+        url('Exo2-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'exo2-sb';
+    src: url('Exo2-SemiBold.woff2') format('woff2'),
+        url('Exo2-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'exo2-r';
+    src: url('Exo2-Regular.woff2') format('woff2'),
+        url('Exo2-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'robotoCondensed-b';
+    src: url('RobotoCondensed-Bold.woff2') format('woff2'),
+        url('RobotoCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'robotoCondensed-l';
+    src: url('RobotoCondensed-Light.woff2') format('woff2'),
+        url('RobotoCondensed-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'inriaSans-b';
+    src: url('InriaSans-Bold.woff2') format('woff2'),
+        url('InriaSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
